@@ -1,0 +1,19 @@
+# Dog and Cat Classifier
+Dog and Cat
+
+##Dependencies
+
+* Scikit-learn
+* numpy
+* scipy
+* keras
+* theano
+* matplotlib
+* os
+* glob
+
+##Usage
+
+```
+python dogs_cats_redux.ipynb
+```
